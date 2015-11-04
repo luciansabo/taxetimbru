@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="viewport" content="user-scalable=yes, initial-scale=1, maximum-scale=2, minimum-scale=1,
+          width=device-width, height=device-height, target-densitydpi=medium-dpi"/>
+    <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.5.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <title>Taxe Judiciare de Timbru</title>
+</head>
+<body>
+
+<div data-role="page" id="mainPage">
+
+    <div id="main">
+        <div data-theme="b" data-role="header">
+            <a id="btn-reseteaza-filtre" href="#"
+               class="ui-btn ui-corner-all ui-shadow ui-icon-recycle ui-btn-icon-left ui-btn-icon-notext">Resetare</a>
+            <a href="info.html"
+               class="ui-btn ui-corner-all ui-shadow ui-icon-info ui-btn-icon-left ui-btn-icon-notext">Info</a>
+
+            <h3>
+                Taxe Judiciare de Timbru
+            </h3>
+        </div>
+
+        <div class="ui-content" role="main">
+
+			<select id="materie" data-native-menu="false" multiple="multiple">
+				<option value="">Alege materii</option>
+				<option value="Civil - Pretentii">Civil - Pretentii</option>
+				<option disabled value="Civil - Partaj judiciar">Civil - Partaj judiciar</option>
+				<option disabled value="Civil - Familiei">Civil - Familiei</option>
+				<option disabled value="Civil">Civil</option>
+				<option disabled value="Executare silita">Executare silita</option>
+				<option disabled value="Procedura civila">Procedura civila</option>
+				<option disabled value="Procedura civila - proceduri speciale">Procedura civila - proceduri
+					speciale</option>
+				<option disabled value="Faliment">Faliment</option>
+				<option disabled value="Contencios administrativ">Contencios administrativ</option>
+				<option disabled value="Contraventii">Contraventii</option>
+				<option value="Infiintare ONG s.a.">Infiintare ONG s.a.</option>
+				<option value="Proprietate intelectuala">Proprietate intelectuala</option>
+				<option value="Notari si executori judecatoresti">Notari si executori judecatoresti</option>
+				<option value="Carte funciara">Carte funciara</option>
+				<option value="Ministerul Justitiei">Ministerul Justitiei</option>
+			</select>
+
+            <select id="nume-taxa" data-native-menu="false">
+                <option value="" data-placeholder="true">Alege taxa</option>
+            </select>
+
+			<div class="alert-box notice">
+				<span>Upgrade la versiunea PRO: </span>
+				Pentru a folosi toate materiile va recomandam sa faceti upgrade la <a
+						href="https://play.google.com/store/apps/details?id=info.taxejudiciare.pro">versiunea Pro</a>,
+				disponibila in Google Play.</div>
+
+            <div class="inline-form hide" id="val-container">
+                <div class="wrapper">
+                    <div class="content">
+                        <input id="val" data-clear-btn="true" type="number" placeholder="Introduceti valoarea...">
+                    </div>
+                </div>
+
+                <div class="right">
+                    <select data-mini="true" disabled>
+                        <option>RON</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="ui-body ui-body-a">
+                <h2 class="label-taxa">TAXĂ<span>TIMBRU</span></h2>
+
+                <p id="taxa"><span style="font-size: 60%" onclick="$('#nume-taxa').selectmenu('open')">alegeți
+                    taxa</span>
+                </p>
+
+                <div id="detalii">
+                    <p>Pentru a alege o taxă folosiți câmpul de căutare de sus.<br>
+                        Puteți restrânge aria de căutare (recomandat) la o anumită materie (ex: Civil, Executare silită
+                        etc.)</p>
+
+                    <p>În anumite cazuri vi se va cere să introduceți valoarea (a pretenției, etc ). Veți observa atunci
+                        un câmp suplimentar sub căutare taxă</p>
+                </div>
+
+
+            </div>
+
+            <p style="font-style: italic">Informațiile prezentate se bazează pe <a href="OG.html">OUG 80/2013
+                actualizată 2014</a></p>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!--<script type="text/javascript" src="cordova.js"></script>-->
+<script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.4.5.min.js"></script>
+<script>
+    $(document).ready(function() {app.onDeviceReady();});
+</script>
+</body>
+</html>

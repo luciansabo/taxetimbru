@@ -1,0 +1,137 @@
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: auto;             /* none prevents webkit from resizing text to fit */
+    -webkit-user-select: text;                  /* none prevents copy paste, to allow, change 'none' to 'text' */    
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    height:100%;
+    margin:0px;
+    padding:0px;    
+    width:100%;
+}
+
+@media screen and (max-width: 480px) {
+    
+}
+
+@media screen and (max-width: 280px) {
+    
+}
+
+@media screen and (min-width: 480px) {
+    
+}
+
+.hide	{display: none}
+.inline-form {margin-top: -10px;}
+.inline-form .wrapper {
+  float: left;
+  width: 100%;    
+}
+
+.inline-form .wrapper .content {
+  margin: 0 135px 0 0px;  /* 0 RC 0 LC */    
+}
+
+.inline-form .right {
+  float: left;
+  width: 130px; /* RC */
+  margin: 2px 0 0 -130px; /* -RC */  
+}
+
+.label-taxa {
+    float: left;    
+    width: 100px;
+    color: #059;
+    letter-spacing: 0.3em;    
+    border-right: 1px solid #ccc;
+}
+
+.label-taxa span {    
+    font-size: 90%;
+    display: block;
+    line-height: 0.5em;
+    color: #a6b779;
+    letter-spacing: -0.04em;
+}
+
+#taxa {
+    padding-left: 16px;
+    margin-top: 20px;
+    float: left;
+    color:  #555;
+    font-size: 28pt;
+}
+
+#taxa:hover {
+    color: #e42d3e;
+}
+
+#detalii {
+    clear: both;
+}
+ 
+/*Enable CSS hardware acceleration*/
+.hwaccel {  -webkit-transform: translateZ(0); } 
+
+.red-border {border: 1px solid red !important}
+
+.ui-selectmenu.ui-popup .ui-input-search {
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+/* Latime mai mare dialog alege taxa */
+#nume-taxa-dialog  {width: 100%}
+#nume-taxa-dialog .ui-dialog-contain {max-width: 800px}
+
+.ui-selectmenu.ui-dialog .ui-content {
+    padding-top: 0;
+}
+.ui-selectmenu.ui-dialog .ui-selectmenu-list {    
+    margin-top: 0;
+}
+.ui-selectmenu.ui-popup .ui-selectmenu-list li.ui-first-child .ui-btn {
+    border-top-width: 1px;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+.ui-selectmenu.ui-dialog .ui-header {
+    border-bottom-width: 1px;
+}
+
+#nume-taxa-button span {margin-right: 35px}
+
+.alert-box {
+    color:#555;
+    border-radius:10px;
+    font-size:11pt;
+    padding: 15px;
+    margin: 10px;
+}
+
+.alert-box span {
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.error {
+    background:#ffecec url('images/error.png') no-repeat 10px 50%;
+    border:1px solid #f5aca6;
+}
+.success {
+    background:#e9ffd9 url('images/success.png') no-repeat 10px 50%;
+    border:1px solid #a6ca8a;
+}
+.warning {
+    background:#fff8c4 url('images/warning.png') no-repeat 10px 50%;
+    border:1px solid #f2c779;
+}
+.notice {
+    background:#e3f7fc url('images/notice.png') no-repeat 10px 50%;
+    border:1px solid #8ed9f6;
+}

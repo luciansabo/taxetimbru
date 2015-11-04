@@ -1,0 +1,275 @@
+[
+	{
+	"nume" : "Pretentii",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (1) Actiunile si cererile evaluabile in bani, introduse la instantele judecatoresti, se taxeaza astfel:<ol type='a'><li>pana la valoarea de 500 lei - 8%, dar nu mai putin de 20 lei;</li> <li>intre 501 lei si 5.000 lei - 40 lei + 7% pentru ce depaseste 500 lei;</li> <li>intre 5.001 lei si 25.000 lei - 355 lei + 5% pentru ce depaseste 5.000 lei;</li> <li>intre 25.001 lei si 50.000 lei - 1.355 lei + 3% pentru ce depaseste 25.000 lei;</li> <li>intre 50.001 lei si 250.000 lei - 2.105 lei + 2% pentru ce depaseste 50.000 lei;</li> <li>peste 250.000 lei - 6.105 lei + 1% pentru ce depaseste 250.000 lei.</li></ol>"
+    },
+    {
+	"nume" : "Actiuni evaluabile in bani",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (1) Actiunile si cererile evaluabile in bani, introduse la instantele judecatoresti, se taxeaza astfel:<ol type='a'><li>pana la valoarea de 500 lei - 8%, dar nu mai putin de 20 lei;</li> <li>intre 501 lei si 5.000 lei - 40 lei + 7% pentru ce depaseste 500 lei;</li> <li>intre 5.001 lei si 25.000 lei - 355 lei + 5% pentru ce depaseste 5.000 lei;</li> <li>intre 25.001 lei si 50.000 lei - 1.355 lei + 3% pentru ce depaseste 25.000 lei;</li> <li>intre 50.001 lei si 250.000 lei - 2.105 lei + 2% pentru ce depaseste 50.000 lei;</li> <li>peste 250.000 lei - 6.105 lei + 1% pentru ce depaseste 250.000 lei.</li></ol>"
+    },
+    {
+	"nume" : "Cereri evaluabile in bani",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (1) Actiunile si cererile evaluabile in bani, introduse la instantele judecatoresti, se taxeaza astfel:<ol type='a'><li>pana la valoarea de 500 lei - 8%, dar nu mai putin de 20 lei;</li> <li>intre 501 lei si 5.000 lei - 40 lei + 7% pentru ce depaseste 500 lei;</li> <li>intre 5.001 lei si 25.000 lei - 355 lei + 5% pentru ce depaseste 5.000 lei;</li> <li>intre 25.001 lei si 50.000 lei - 1.355 lei + 3% pentru ce depaseste 25.000 lei;</li> <li>intre 50.001 lei si 250.000 lei - 2.105 lei + 2% pentru ce depaseste 50.000 lei;</li> <li>peste 250.000 lei - 6.105 lei + 1% pentru ce depaseste 250.000 lei.</li></ol>"
+    },
+    {
+	"nume" : "Constatarea nulitatii unui act juridic patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: a) in constatarea nulitatii, anularea, rezolutiunea sau rezilierea unui act juridic patrimonial; cererea privind repunerea partilor in situatia anterioara este scutita de taxa de timbru daca este accesorie acestor cereri;"
+    },
+    {
+	"nume" : "Anularea unui act juridic patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: a) in constatarea nulitatii, anularea, rezolutiunea sau rezilierea unui act juridic patrimonial; cererea privind repunerea partilor in situatia anterioara este scutita de taxa de timbru daca este accesorie acestor cereri;"
+    },
+    {
+	"nume" : "Rezolutiunea unui act juridic patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: a) in constatarea nulitatii, anularea, rezolutiunea sau rezilierea unui act juridic patrimonial; cererea privind repunerea partilor in situatia anterioara este scutita de taxa de timbru daca este accesorie acestor cereri;"
+    },
+    {
+	"nume" : "Rezilierea unui act juridic patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: a) in constatarea nulitatii, anularea, rezolutiunea sau rezilierea unui act juridic patrimonial; cererea privind repunerea partilor in situatia anterioara este scutita de taxa de timbru daca este accesorie acestor cereri;"
+    },
+    {
+	"nume" : "Constatarea existentei unui drept patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: b) privind constatarea existentei sau inexistentei unui drept patrimonial;"
+    },
+    {
+	"nume" : "Constatarea inexistentei unui drept patrimonial",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: b) privind constatarea existentei sau inexistentei unui drept patrimonial;"
+    },
+    {
+	"nume" : "Hotarare care tine loc de act autentic",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: c) prin care se solicita pronuntarea unei hotarari judecatoresti care tine loc de act autentic de instrainare a unor bunuri imobile sau de constituire a unor drepturi reale asupra acestora."
+    },
+    {
+	"nume" : "Constituire drepturi reale imobile",
+	"categorie": "Civil - Pretentii",
+	"cod" : "t = pretentii($val);",
+	"campValoare": true,
+	"text": "Art. 3 alin. (2) Se taxeaza potrivit alin. (1) si urmatoarele categorii de actiuni: c) prin care se solicita pronuntarea unei hotarari judecatoresti care tine loc de act autentic de instrainare a unor bunuri imobile sau de constituire a unor drepturi reale asupra acestora."
+    },
+    {
+	"nume" : "Inregistrarea partidelor politice",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 300;",
+	"campValoare": false,
+	"text": "Art. 12 Cererile pentru dobandirea personalitatii juridice, pentru autorizarea functionarii si pentru inregistrarea unor persoane juridice se taxeaza dupa cum urmeaza: a) cereri privind inregistrarea partidelor politice sau pentru modificarea statutului acestora - 300 lei."
+    },
+    {
+	"nume" : "Legea dialogului social",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 200;",
+	"campValoare": false,
+	"text": "Art. 12 Cererile pentru dobandirea personalitatii juridice, pentru autorizarea functionarii si pentru inregistrarea unor persoane juridice se taxeaza dupa cum urmeaza: b) cereri pentru dobandirea personalitatii juridice de catre organizatiile prevazute in Legea dialogului social nr. 62/2011, republicata, cu modificarile ulterioare, precum si pentru modificarea actelor constitutive ale acestora - 200 lei."
+    },
+    {
+	"nume" : "Asociatii",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 12 Cererile pentru dobandirea personalitatii juridice, pentru autorizarea functionarii si pentru inregistrarea unor persoane juridice se taxeaza dupa cum urmeaza: c) cereri pentru dobandirea personalitatii juridice de catre asociatiile fara scop lucrativ, fundatii, uniuni si federatii de persoane juridice fara scop lucrativ, precum si pentru modificarea actelor constitutive ale acestora - 100 lei."
+    },
+    {
+	"nume" : "Fundatii",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 12 Cererile pentru dobandirea personalitatii juridice, pentru autorizarea functionarii si pentru inregistrarea unor persoane juridice se taxeaza dupa cum urmeaza: c) cereri pentru dobandirea personalitatii juridice de catre asociatiile fara scop lucrativ, fundatii, uniuni si federatii de persoane juridice fara scop lucrativ, precum si pentru modificarea actelor constitutive ale acestora - 100 lei."
+    },
+    {
+	"nume" : "Uniunii si federatii de persoane juridice",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 12 Cererile pentru dobandirea personalitatii juridice, pentru autorizarea functionarii si pentru inregistrarea unor persoane juridice se taxeaza dupa cum urmeaza: c) cereri pentru dobandirea personalitatii juridice de catre asociatiile fara scop lucrativ, fundatii, uniuni si federatii de persoane juridice fara scop lucrativ, precum si pentru modificarea actelor constitutive ale acestora - 100 lei."
+    },
+    {
+	"nume" : "Dreptul de autor",
+	"categorie": "Proprietate intelectuala",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 13 Actiunile formulate in domeniul dreptului de proprietate intelectuala se taxeaza dupa cum urmeaza: a) pentru recunoasterea dreptului de autor si a drepturilor conexe, pentru constatarea incalcarii acestora si repararea prejudiciilor, inclusiv plata drepturilor de autor si a sumelor cuvenite pentru opere de arta, precum si pentru luarea oricaror masuri in scopul prevenirii producerii unor pagube iminente, pentru asigurarea repararii acestora ori pentru restabilirea dreptului atins - 100 lei."
+    },
+    {
+	"nume" : "Recunoasterea calitatii de inventator",
+	"categorie": "Proprietate intelectuala",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 13 Actiunile formulate in domeniul dreptului de proprietate intelectuala se taxeaza dupa cum urmeaza: b) pentru recunoasterea calitatii de inventator, de titular de brevet, a drepturilor nascute din brevetul de inventie, din contractele de cesiune si licenta, inclusiv drepturile patrimoniale ale inventatorului - 100 lei."
+    },
+    {
+	"nume" : "Marca, desene, modele industriale",
+	"categorie": "Proprietate intelectuala",
+	"cod" : "t = 300;",
+	"campValoare": false,
+	"text": "Art. 13 Actiunile formulate in domeniul dreptului de proprietate intelectuala se taxeaza dupa cum urmeaza: c) cererile neevaluabile in bani privitoare la drepturile conferite de marca, desene si modele industriale - 300 lei."
+    },
+    {
+	"nume" : "Contestatie decizie conflict competenta notari",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 17 Cererile formulate potrivit Legii notarilor publici si a activitatii notariale nr. 36/1995, republicata, cu modificarile ulterioare, se taxeaza dupa cum urmeaza: a) contestatia impotriva deciziei Colegiului director al Camerei Notarilor Publici sau, dupa caz, a Biroului executiv al Consiliului Uniunii Notarilor Publici prin care au fost solutionate conflictele de competenta dintre notarii publici - 100 lei;"
+    },
+    {
+	"nume" : "Plangere incheiere de respingere indeplinire act notarial",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 17 Cererile formulate potrivit Legii notarilor publici si a activitatii notariale nr. 36/1995, republicata, cu modificarile ulterioare, se taxeaza dupa cum urmeaza: b) plangerile impotriva incheierii de respingere a cererii de indeplinire a unui act notarial - 20 lei."
+    },
+    {
+	"nume" : "Solutionare conflict competenta BEJ",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 18 Se taxeaza cu 20 lei urmatoarele cereri formulate potrivit Legii nr. 188/2000 privind executorii judecatoresti, republicata, cu modificarile ulterioare: a) cereri pentru solutionarea conflictelor de competenta intre birourile executorilor judecatoresti."
+    },
+    {
+	"nume" : "Refuzul executorului indeplinire atributii",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 18 Se taxeaza cu 20 lei urmatoarele cereri formulate potrivit Legii nr. 188/2000 privind executorii judecatoresti, republicata, cu modificarile ulterioare: b) plangeri impotriva refuzului executorului judecatoresc de a-si indeplini atributiile prevazute de lege."
+    },
+    {
+	"nume" : "Supralegalizare semnatura executor",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 18 Se taxeaza cu 20 lei urmatoarele cereri formulate potrivit Legii nr. 188/2000 privind executorii judecatoresti, republicata, cu modificarile ulterioare: c) cereri pentru supralegalizarea semnaturii si a stampilei executorului judecatoresc."
+    },
+    {
+	"nume" : "Supralegalizare stampila executor",
+	"categorie": "Notari si executori judecatoresti",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 18 Se taxeaza cu 20 lei urmatoarele cereri formulate potrivit Legii nr. 188/2000 privind executorii judecatoresti, republicata, cu modificarile ulterioare: c) cereri pentru supralegalizarea semnaturii si a stampilei executorului judecatoresc."
+    },
+    {
+	"nume" : "Actiune carte funciara",
+	"categorie": "Carte funciara",
+	"cod" : "t = 50;",
+	"campValoare": false,
+	"text": "Art. 20 Actiunile si cererile in materie de carte funciara, cand nu pun in discutie fondul dreptului, se taxeaza cu 50 lei."
+    },
+    {
+	"nume" : "Inregistrare asociatie proprietari",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 21 Cererea privind inregistrarea asociatiilor de proprietari, de locatari sau mixte si apelul impotriva incheierii judecatorului-delegat se taxeaza cu 20 lei."
+    },
+    {
+	"nume" : "Inregistrare asociatie locatari",
+	"categorie": "Infiintare ONG s.a.",
+	"cod" : "t = 20;",
+	"campValoare": false,
+	"text": "Art. 21 Cererea privind inregistrarea asociatiilor de proprietari, de locatari sau mixte si apelul impotriva incheierii judecatorului-delegat se taxeaza cu 20 lei."
+    },
+    {
+	"nume" : "Supralegalizare inscris",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 10;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: a) cereri pentru supralegalizarea inscrisurilor sau copiilor de pe inscrisuri, destinate a fi utilizate in strainatate - 10 lei pentru fiecare inscris ori copie."
+    },
+    {
+	"nume" : "Supralegalizare copie inscris",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 10;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: a) cereri pentru supralegalizarea inscrisurilor sau copiilor de pe inscrisuri, destinate a fi utilizate in strainatate - 10 lei pentru fiecare inscris ori copie."
+    },
+    {
+	"nume" : "Autorizare traducator",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 300;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: b) cereri pentru autorizarea traducatorilor si interpretilor - 300 lei."
+    },
+    {
+	"nume" : "Autorizare interpret",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 300;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: b) cereri pentru autorizarea traducatorilor si interpretilor - 300 lei."
+    },
+    {
+	"nume" : "Atestare titlu oficial consilier juridic",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: c) cereri in vederea atestarii titlului oficial de calificare roman de consilier juridic si a experientei dobandite in Romania, in vederea admiterii si practicarii acesteia in celelalte state membre ale Uniunii Europene sau ale Spatiului Economic European; pentru atestarea calificarii de traducator si interpret autorizat, in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana; pentru atestarea calificarii de expert tehnic judiciar in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana - 100 lei."
+    },
+    {
+	"nume" : "Atestare calificare traducator autorizat",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: c) cereri in vederea atestarii titlului oficial de calificare roman de consilier juridic si a experientei dobandite in Romania, in vederea admiterii si practicarii acesteia in celelalte state membre ale Uniunii Europene sau ale Spatiului Economic European; pentru atestarea calificarii de traducator si interpret autorizat, in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana; pentru atestarea calificarii de expert tehnic judiciar in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana - 100 lei."
+    },
+    {
+	"nume" : "Atestare calificare interpret autorizat",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: c) cereri in vederea atestarii titlului oficial de calificare roman de consilier juridic si a experientei dobandite in Romania, in vederea admiterii si practicarii acesteia in celelalte state membre ale Uniunii Europene sau ale Spatiului Economic European; pentru atestarea calificarii de traducator si interpret autorizat, in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana; pentru atestarea calificarii de expert tehnic judiciar in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana - 100 lei."
+    },
+    {
+	"nume" : "Atestare calificare expert tehnic judiciar",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: c) cereri in vederea atestarii titlului oficial de calificare roman de consilier juridic si a experientei dobandite in Romania, in vederea admiterii si practicarii acesteia in celelalte state membre ale Uniunii Europene sau ale Spatiului Economic European; pentru atestarea calificarii de traducator si interpret autorizat, in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana; pentru atestarea calificarii de expert tehnic judiciar in vederea exercitarii acesteia in statele membre ale Uniunii Europene sau ale Spatiului Economic European ori in Confederatia Elvetiana - 100 lei."
+    },
+    {
+	"nume" : "Recunoastere calificare traducator",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: d) cereri adresate Ministerului Justitiei in vederea recunoasterii calificarii profesionale de traducator si interpret autorizat sau expert tehnic judiciar, in conditiile Legii nr. 200/2004 privind recunoasterea diplomelor si calificarilor profesionale pentru profesiile reglementate din Romania, cu modificarile si completarile ulterioare - 100 lei."
+    },
+    {
+	"nume" : "Recunoastere calificare interpret",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: d) cereri adresate Ministerului Justitiei in vederea recunoasterii calificarii profesionale de traducator si interpret autorizat sau expert tehnic judiciar, in conditiile Legii nr. 200/2004 privind recunoasterea diplomelor si calificarilor profesionale pentru profesiile reglementate din Romania, cu modificarile si completarile ulterioare - 100 lei."
+    },
+    {
+	"nume" : "Recunoastere calificare expert tehnic judiciar",
+	"categorie": "Ministerul Justitiei",
+	"cod" : "t = 100;",
+	"campValoare": false,
+	"text": "Art. 22 Cererile adresate Ministerului Justitiei se taxeaza dupa cum urmeaza: d) cereri adresate Ministerului Justitiei in vederea recunoasterii calificarii profesionale de traducator si interpret autorizat sau expert tehnic judiciar, in conditiile Legii nr. 200/2004 privind recunoasterea diplomelor si calificarilor profesionale pentru profesiile reglementate din Romania, cu modificarile si completarile ulterioare - 100 lei."
+    }
+]

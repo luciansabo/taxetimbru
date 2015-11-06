@@ -12,10 +12,10 @@
         <param name="android-package" value="org.apache.cordova.Device" />
     </feature>
     <feature name="InAppBrowser">
-        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+        <param name="android-package" value="org.apache.cordova.InAppBrowser" />
     </feature>
     <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.inappbrowser.InAppBrowser" />
+    <gap:plugin name="org.apache.cordova.inappbrowser" />
     <preference name="permissions" value="none"/>
     <preference name="orientation" value="default"/>
     <preference name="target-device" value="universal"/>

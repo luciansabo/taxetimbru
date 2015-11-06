@@ -7,11 +7,6 @@ var taxInfo = new Object();
 var jqmReady = $.Deferred();
 var pgReady = $.Deferred();
 
-window.onerror = function(msg, url, linenumber) {
-    alert('Error message: '+msg+'\nURL: '+url+'\nLine Number: '+linenumber);
-    return true;
-}
-
 // jqm ready
 $(document).bind("mobileinit", jqmReady.resolve);
 

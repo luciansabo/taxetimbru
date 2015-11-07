@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="info.taxejudiciare"
-        version="1.3.0">
+        version="2.0.0">
     <name>Taxe Judiciare de Timbru</name>
     <description>
         Află valoarea taxelor judiciare de timbru pe care trebuie sa le plătești cât și informatii despre baza legală.
